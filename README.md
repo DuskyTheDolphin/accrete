@@ -3,7 +3,7 @@
 The starting point for a Game Ideas browser prototype. **Instantiate it, don't fork it.**
 
 ```bash
-npx degit budgeman101/game-ideas-meta/template my-game
+npx degit DuskyTheDolphin/game-ideas-meta/template my-game
 cd my-game
 npm install
 echo 8440 > .devport        # claim a port from the registry in CLAUDE.md
